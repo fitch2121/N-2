@@ -1,7 +1,6 @@
 {
   "MajorBuild": 26200,
   "GeneratedUtc": "2026-09-27T00:00:00Z",
-  "Source": "Manual snapshot - replace with the output of Publish-CompliantBuildList.ps1 once the central job is scheduled",
   "Releases": [
     { "MinorBuild": 9945, "PatchID": "KB5124085", "ReleaseDate": "2026-11-10", "Band": "B" },
     { "MinorBuild": 9842, "PatchID": "KB5124080", "ReleaseDate": "2026-10-13", "Band": "B" },
