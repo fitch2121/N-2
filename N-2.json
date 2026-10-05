@@ -1,108 +1,21 @@
 {
   "MajorBuild": 26200,
   "GeneratedUtc": "2026-09-27T00:00:00Z",
+  "Source": "Manual snapshot - replace with the output of Publish-CompliantBuildList.ps1 once the central job is scheduled",
   "Releases": [
-    {
-      "MinorBuild": 9999,
-      "PatchID": "KB5164085",
-      "ReleaseDate": "2026-12-15",
-      "Band": "B"
-    },
-    {
-      "MinorBuild": 9945,
-      "PatchID": "KB5124085",
-      "ReleaseDate": "2026-11-10",
-      "Band": "B"
-    },
-    {
-      "MinorBuild": 9842,
-      "PatchID": "KB5124080",
-      "ReleaseDate": "2026-10-13",
-      "Band": "B"
-    },
-    {
-      "MinorBuild": 9445,
-      "PatchID": "KB5124008",
-      "ReleaseDate": "2026-09-08",
-      "Band": "B"
-    },
-    {
-      "MinorBuild": 9168,
-      "PatchID": "KB5121003",
-      "ReleaseDate": "2026-08-11",
-      "Band": "B"
-    },
-    {
-      "MinorBuild": 8875,
-      "PatchID": "KB5101650",
-      "ReleaseDate": "2026-07-14",
-      "Band": "B"
-    },
-    {
-      "MinorBuild": 8655,
-      "PatchID": "KB5094126",
-      "ReleaseDate": "2026-06-09",
-      "Band": "B"
-    },
-    {
-      "MinorBuild": 8457,
-      "PatchID": "KB5089549",
-      "ReleaseDate": "2026-05-12",
-      "Band": "B"
-    },
-    {
-      "MinorBuild": 8246,
-      "PatchID": "KB5083769",
-      "ReleaseDate": "2026-04-14",
-      "Band": "B"
-    },
-    {
-      "MinorBuild": 8117,
-      "PatchID": "KB5086672",
-      "ReleaseDate": "2026-03-31",
-      "Band": "OOB"
-    },
-    {
-      "MinorBuild": 8037,
-      "PatchID": "KB5079473",
-      "ReleaseDate": "2026-03-10",
-      "Band": "B"
-    },
-    {
-      "MinorBuild": 7840,
-      "PatchID": "KB5077181",
-      "ReleaseDate": "2026-02-10",
-      "Band": "B"
-    },
-    {
-      "MinorBuild": 7623,
-      "PatchID": "KB5074109",
-      "ReleaseDate": "2026-01-13",
-      "Band": "B"
-    },
-    {
-      "MinorBuild": 7462,
-      "PatchID": "KB5072033",
-      "ReleaseDate": "2025-12-09",
-      "Band": "B"
-    },
-    {
-      "MinorBuild": 7171,
-      "PatchID": "KB5068861",
-      "ReleaseDate": "2025-11-11",
-      "Band": "B"
-    },
-    {
-      "MinorBuild": 6901,
-      "PatchID": "KB5070773",
-      "ReleaseDate": "2025-10-20",
-      "Band": "OOB"
-    },
-    {
-      "MinorBuild": 6899,
-      "PatchID": "KB5066835",
-      "ReleaseDate": "2025-10-14",
-      "Band": "B"
-    }
+    { "MinorBuild": 9445, "PatchID": "KB5124008", "ReleaseDate": "2026-09-08", "Band": "B" },
+    { "MinorBuild": 9168, "PatchID": "KB5121003", "ReleaseDate": "2026-08-11", "Band": "B" },
+    { "MinorBuild": 8875, "PatchID": "KB5101650", "ReleaseDate": "2026-07-14", "Band": "B" },
+    { "MinorBuild": 8655, "PatchID": "KB5094126", "ReleaseDate": "2026-06-09", "Band": "B" },
+    { "MinorBuild": 8457, "PatchID": "KB5089549", "ReleaseDate": "2026-05-12", "Band": "B" },
+    { "MinorBuild": 8246, "PatchID": "KB5083769", "ReleaseDate": "2026-04-14", "Band": "B" },
+    { "MinorBuild": 8117, "PatchID": "KB5086672", "ReleaseDate": "2026-03-31", "Band": "OOB" },
+    { "MinorBuild": 8037, "PatchID": "KB5079473", "ReleaseDate": "2026-03-10", "Band": "B" },
+    { "MinorBuild": 7840, "PatchID": "KB5077181", "ReleaseDate": "2026-02-10", "Band": "B" },
+    { "MinorBuild": 7623, "PatchID": "KB5074109", "ReleaseDate": "2026-01-13", "Band": "B" },
+    { "MinorBuild": 7462, "PatchID": "KB5072033", "ReleaseDate": "2025-12-09", "Band": "B" },
+    { "MinorBuild": 7171, "PatchID": "KB5068861", "ReleaseDate": "2025-11-11", "Band": "B" },
+    { "MinorBuild": 6901, "PatchID": "KB5070773", "ReleaseDate": "2025-10-20", "Band": "OOB" },
+    { "MinorBuild": 6899, "PatchID": "KB5066835", "ReleaseDate": "2025-10-14", "Band": "B" }
   ]
 }
